@@ -1,4 +1,4 @@
-# pytest
+! pytest
 __pycache__/
 .vscode/
 .venv/
@@ -9,3 +9,4 @@ Pipfile
 docs/source/_build
 .mypy_cache
 .pytest_cache
+ 
